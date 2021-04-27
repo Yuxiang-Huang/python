@@ -47,6 +47,8 @@ print(answer)
 # Problem 1
 # Write the following function, thinking about the process you
 # used in Problem 0
+# You may also want to visit the solution to zip_lists, found here:
+# https://github.com/mks22-dw/python/blob/main/for.py
 
 # Precondition: a and b are lists sorted in ascending order
 # Returns a new list combining all the elements of a and b.
