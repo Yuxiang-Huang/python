@@ -37,7 +37,7 @@ donatello = turtle.Turtle()
 donatello.lt(90)
 donatello.speed(0)
 
-tree(donatello, 10, 150, 30, 11)
+tree(donatello, 10, 150, 20, 11)
 
 
 
