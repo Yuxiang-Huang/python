@@ -29,7 +29,7 @@ print(answer)
 #     correct sequence of values.
 
 # Your answer here
-a_and_b = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+a_and_b = [\]
 # print out the list you just made
 print(a_and_b)
 
