@@ -3,7 +3,8 @@ from pprint import pprint
 print(('=' * 10) + "Problem 0" + ('=' * 10))
 # There is a file called 'nyc_pop.csv' that you can find in
 # the same place as this lab file. Download it and put it
-# in the same directory as this file.
+# in the same directory as this file. It may help to view the
+# "Raw" version of the nyc_pop.csv file on github.
 #
 # Write code that will open 'nyc_pop.csv' and the read its
 # contents into a string called text.
